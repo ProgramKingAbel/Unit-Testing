@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-  <h3><b>Module 1: Hello Microverse Project</b></h3>
+  <h3><b>Module 1: UNIT TESTING</b></h3>
 
 </div>
 
@@ -24,7 +24,7 @@
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
 
-**[Hello-Microverse]** is my first project at Microverse at Microverse, on Module 1 Week One implemeted using HTML and CSS.
+**Unit Testing** illustrates a few practical tests for JavaScript functions using the Jest library. It follows the AAA pattern to make tests easier for other developers to read and understand. The TDD approach in practice is also illustrated here.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,7 +33,7 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Simple Homepage]**
+- **[Simple Js Functions]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [https://github.com/ProgramKingAbel/Hello-Microverse/pull/1](https://google.com)
+- [check Repo](https://github.com/ProgramKingAbel/Unit-Testing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,8 +146,8 @@ Localhost on your computer through a local Server:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Make the application mobile responsive]**
-- [ ] **[Add media both images and videos]**
+- [ ] **[Implement Real Testing on Real- World Projects]**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
