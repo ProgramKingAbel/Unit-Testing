@@ -7,8 +7,8 @@ const functions = {
           throw new Error('Condition on length Failed');
      },
 
-     reverseString: (string) =>  string.split('').reverse().join('')
-    
+     reverseString: (string) =>  string.split('').reverse().join(''),
+     capitalize: (string) => string = string.charAt(0).toUpperCase() + string.slice(1)
 }
 
 module.exports = functions;

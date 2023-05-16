@@ -15,3 +15,8 @@ test('length < 10', () => {
 test('Reverse String', ()  => {
     expect(functions.reverseString('Abel')).toEqual('lebA');
 })
+
+test('Capitalize', ()  => {
+    expect(functions.capitalize('abel')).toEqual('Abel');
+})
+
