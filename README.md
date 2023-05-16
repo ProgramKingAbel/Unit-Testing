@@ -21,7 +21,7 @@
 
 
 
-# 📖 [Hello-Microverse] <a name="about-project"></a>
+# 📖 [Unit Testing] <a name="about-project"></a>
 
 
 **Unit Testing** illustrates a few practical tests for JavaScript functions using the Jest library. It follows the AAA pattern to make tests easier for other developers to read and understand. The TDD approach in practice is also illustrated here.
