@@ -12,3 +12,6 @@ test('length < 10', () => {
     expect(functions.stringLength('Abel')).toBeLessThan(10);
 })
 
+test('Reverse String', ()  => {
+    expect(functions.reverseString('Abel')).toEqual('lebA');
+})

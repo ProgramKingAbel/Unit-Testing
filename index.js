@@ -5,7 +5,9 @@ const functions = {
                return len;
           }
           throw new Error('Condition on length Failed');
-     }
+     },
+
+     reverseString: (string) =>  string.split('').reverse().join('')
     
 }
 
